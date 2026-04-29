@@ -1,11 +1,11 @@
-# 🚀 React Image Slider
+#  React Image Slider
 
 A responsive and modern **Image Slider (Carousel)** built using React and Tailwind CSS.  
 This project demonstrates component-based design, state management, and smooth UI interactions.
 
 ---
 
-## ✨ Features
+##  Features
 
 - 🔁 Auto sliding images (every 2 seconds)
 - ⏮ Previous / Next navigation buttons
@@ -18,7 +18,9 @@ This project demonstrates component-based design, state management, and smooth U
 
 ## 📸 Preview
 
-![Image Slider](image_slider/src/assets/slider.png)
+## 📸 Preview
+
+![Image Slider](src/assets/slider.png)
 
 ---
 
