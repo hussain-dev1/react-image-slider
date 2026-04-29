@@ -16,6 +16,10 @@ This project demonstrates component-based design, state management, and smooth U
 
 ---
 
+## 📌 Project Links
+
+- 🔗 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7455102948839211008/)
+
 ## 📸 Preview
 
 ![Image Slider](src/assets/slider.png)
