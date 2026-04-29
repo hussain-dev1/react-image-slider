@@ -18,8 +18,6 @@ This project demonstrates component-based design, state management, and smooth U
 
 ## 📸 Preview
 
-## 📸 Preview
-
 ![Image Slider](src/assets/slider.png)
 
 ---
