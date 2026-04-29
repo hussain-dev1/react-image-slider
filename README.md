@@ -18,7 +18,7 @@ This project demonstrates component-based design, state management, and smooth U
 
 ## 📸 Preview
 
-![Image Slider](assets/slider.png)
+![Image Slider](image_slider/src/assets/slider.png)
 
 ---
 
@@ -30,7 +30,16 @@ This project demonstrates component-based design, state management, and smooth U
 - React JS
 - Tailwind CSS
 - Vite
-
+g
 ---
 
 ## 📂 Project Structure
+|-IMAGE_SLIDER
+    |-image_slider
+        |-node_modules
+        |-public
+        |-src
+            |-App.jsx
+            |-Image_slider.jsx
+            |-main.jsx
+        |-README.md
