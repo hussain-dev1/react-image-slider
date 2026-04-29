@@ -20,8 +20,6 @@ This project demonstrates component-based design, state management, and smooth U
 
 ![Image Slider](src/assets/slider.png)
 
----
-
 
 ---
 
@@ -34,12 +32,20 @@ g
 ---
 
 ## 📂 Project Structure
-|-IMAGE_SLIDER
-    |-image_slider
-        |-node_modules
-        |-public
-        |-src
-            |-App.jsx
-            |-Image_slider.jsx
-            |-main.jsx
-        |-README.md
+IMAGE_SLIDER/
+└── image_slider/
+├── node_modules/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── Image_slider.jsx
+│ ├── main.jsx
+│ └── assets/
+│ └── slider.png
+├── package.json
+├── package-lock.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── eslint.config.js
+└── README.md
