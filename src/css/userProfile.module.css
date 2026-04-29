@@ -1,0 +1,24 @@
+/* not work for others component like "external css" import required for all component to use
+.heading{
+    color: red;
+}
+
+.container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.userCard{
+    width: 200px;
+    border-radius: 3px;
+    border: 1px solid #cccccc57;
+    box-shadow: 1px 1px 3px 1px #cccccc57;
+    cursor: pointer;
+    margin: 10px;
+}
+.img{
+    width: 200px;
+    border-radius: 3px;
+}
+.userInfo{
+    padding: 3px 10px;
+} */
